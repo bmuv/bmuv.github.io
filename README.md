@@ -24,7 +24,7 @@
 ## Projects
 
 ### Frame-Level Speech Recognition using Multilayer Perceptron
-[code](https://github.com/bmuv)
+[code](FLSR_MLP.ipynb)
 
 **Overview**
 
@@ -43,7 +43,7 @@ This project focused on transforming raw Mel Frequency Cepstral Coefficients (MF
 - Achieved a high model accuracy with a score of 0.87693, demonstrating advanced proficiency in speech processing and machine learning techniques.
 
 ### Face Classification & Verification using Convolutional Neural Networks
-[code](https://github.com/bmuv)
+[code](FCV_CNN.ipynb)
 
 **Overview**
 
