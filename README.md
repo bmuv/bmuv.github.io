@@ -24,7 +24,7 @@
 ## Projects
 
 ### Frame-Level Speech Recognition using Multilayer Perceptron
-[code](FLSR_MLP.ipynb)
+[code](https://github.com/bmuv/CMU-IDL-Projects/blob/main/FLSR_MLP.ipynb)
 
 **Overview**
 
