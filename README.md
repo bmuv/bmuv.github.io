@@ -2,6 +2,8 @@
 
 ### Education
 
+Business Analytics, Msc
+
 ### Work Experience
 ML Engineer @ ACME
 - big impact project 1
