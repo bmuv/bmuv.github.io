@@ -16,7 +16,7 @@
 - Collaborated with team members to develop comprehensive reports and engaging presentations to effectively
   communicate project findings and insights to stakeholders and team members.
 
-**Cofounder & Data Lead @ Extra Technologies Ltd (_June 2018 - July 2021_) **
+**Cofounder & Data Lead @ Extra Technologies Ltd (_June 2018 - July 2021_)**
 - Developed and led the implementation of a cooperative management platform that increased efficiency in
   daily operations for over 16 cooperatives with 5000 members, resulting in a 15% reduction in overhead costs.
 - Created analytics dashboards using PowerBi to track and analyze member performance for Tea Cooperatives.
