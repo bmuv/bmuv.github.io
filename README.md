@@ -25,23 +25,23 @@
 
 **Frame-Level Speech Recognition using Multilayer Perceptron**
 [code](https://github.com/bmuv)
-## Overview
+### Overview
 Developed an advanced frame-level speech recognition system using a Multilayer Perceptron (MLP).
 This project focused on transforming raw Mel Frequency Cepstral Coefficients (MFCCs) into precise phonetic transcriptions at the frame level.
-## Key Responsibilities
+### Key Responsibilities
 - Engineered an MLP model to learn feature representations and establish a non-linear classification boundary for speech recognition.
 - Employed cross-entropy loss to minimize the discrepancy between the predicted outputs and the target phoneme class labels.
 - Utilized gradient descent algorithms for neural network parameter optimization, aimed at reducing the overall cost function and enhancing model precision.
-## Achievements
+### Achievements
 - Successfully developed a neural network capable of distinguishing between diverse phonetic sounds in speech.
 - Achieved a high model accuracy with a score of 0.87693, demonstrating advanced proficiency in speech processing and machine learning techniques.
 
 **Face Classification & Verification using Convolutional Neural Networks**
 [code](https://github.com/bmuv)
-## Overview
+### Overview
 - Implemented a ResNet architectures for face verification, focusing on constructing effective convolutional neural networks and generating discriminative, generalizable feature representations.
 - Implemented a face classifier to extract and analyze facial features (like skin tone, hair color, nose size) from images, converting them into fixed-length feature vectors or face embeddings.
 - Designed a verification system to compute the similarity between feature vectors of two images, determining if they represent the same person.
-## Key Achievements
+### Key Achievements
 - Successfully trained a model that can distinguish facial features with high accuracy, thereby enhancing the performance of face verification tasks.
 - Developed and optimized a model capable of effectively comparing feature vectors to generate a similarity score, crucial for accurate identity verification.
