@@ -43,7 +43,7 @@ This project focused on transforming raw Mel Frequency Cepstral Coefficients (MF
 - Achieved a high model accuracy with a score of 0.87693, demonstrating advanced proficiency in speech processing and machine learning techniques.
 
 ### Face Classification & Verification using Convolutional Neural Networks
-[code](FCV_CNN.ipynb)
+[code](https://github.com/bmuv/CMU-IDL-Projects/blob/main/FCV_CNN.ipynb)
 
 **Overview**
 
